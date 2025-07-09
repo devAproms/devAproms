@@ -2,8 +2,8 @@
 ### Este é o repositório oficial de códigos fontes da Aproms Net👋
 
 - :truck: Aproms Net Instituição de Pagamento Ltda. :brazil:
-- :computer: www.apromsnet.com.br
-- :envelope: dev@aproms.com.br
+- :computer: apromsnet.com.br
+- :envelope: atendimento@aproms.com.br
 - :telephone_receiver: +55 (67) 3424-9874
 
 <!--
